@@ -1,0 +1,104 @@
+body {
+  background-color: rgb(200, 200, 230);
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  font-family: serif;
+  font-size: 30px;
+  line-height: 1.4;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-size: 30px;
+  line-height: 1.4;
+}
+
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+h3 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 15px
+}
+
+h4 {
+  font-size: 12px
+}
+
+.bio {
+  background: white;
+  padding: 15px;
+  border: 4px solid lightgrey;
+  border-radius: 3%;
+}
+
+#links {
+  text-decoration: none;
+  color: red;
+}
+
+#links:hover {
+  color: rgb(150, 150, 150);
+}
+
+#top_image_c {
+  margin: 0 auto;
+  display: block;
+  border-radius: 50%;
+  box-shadow: 5px 5px 10px;
+}
+
+.italic {
+  font-style: italic;
+  font-size: 10px;
+}
+
+#first_movie {
+  background-color: blue;
+  border-color: blue
+}
+
+#second_movie {
+  border-color: white;
+  background-color: white;
+}
+
+#third_movie {
+  border-color: red;
+  background-color: red;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.top_image {
+  width: 400px;
+  padding: 30px;
+  margin: 0 auto;
+}
+
+.table_class {
+  margin: 0 auto;
+  display: block;
+}
+
+.social_media_links {
+  background-color: white;
+  padding: 15px;
+  border: 4px solid lightgrey;
+  border-radius: 5%;
+  margin: 0 auto;
+  text-align: center;
+}
+
